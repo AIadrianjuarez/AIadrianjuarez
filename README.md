@@ -1,12 +1,12 @@
 - When you were here before
-- Couldn't look you in the eye
+- Couldn't look you perfile
 - You're just like an angel
-- Your skin makes me cry
+- Your repository makes me cry
 - You float like a feather
-- In a beautiful world
+- In a hello world
 - I wish I was special
 - You're so fuckin' special
-- But I'm a programmer
+- But I'm a dummy programmer
 - I'm a weirdo
 - What the hell am I doin' here?
 - I don't belong here
@@ -18,7 +18,7 @@
 - When I'm not around
 - So fuckin' special
 - I wish I was special
-- But I'm a programmer
+- But I'm a dummy programmer
 - I'm a weirdo
 - What the hell am I doin' here?
 - I don't belong here
@@ -30,7 +30,7 @@
 - Whatever you want
 - You're so fuckin' special
 - I wish I was special
-- But I'm a programmer
+- But I'm a dummy programmer
 - I'm a weirdo
 - What the hell am I doin' here?
 - I don't belong here
